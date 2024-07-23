@@ -46,7 +46,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/yourusername/fract-arithmetic.git
+git clone https://github.com/roman91DE/fractions.git
 cd fract-arithmetic
 ```
 
